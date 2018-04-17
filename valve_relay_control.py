@@ -1,27 +1,25 @@
 import RPi.GPIO as GPIO
 import time
+import os
 
+print("HELLO")
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
-pins = [14,15,18] 
-GPIO.setup(pins, GPIO.OUT)
+GPIO.setup(24, GPIO.OUT)
 
-for pin in pins :
-	GPIO.output(pin,  GPIO.HIGH)
-	time.sleep(x)
-	#x depends on sensor module values x value 
-	#keeps on increasing until the soil sensor 
-	#value increases to an optimal value
+GPIO.output(24, GPIO.LOW)
+        #turns on the main motor pump
 
- 	if (str(pin)="14"):
- 		w="Garden"
- 	elif (str(pin)="15"):
-		w="seed plot"
-	else:
-		w="outdoors"
+time.sleep(30)
+        #holds the motor for 30 seconds
 
-	print( "Watering the " + w +" is comleted" )
+GPIO.output(24, GPIO.HIGH)
+        #turns off the motor
 
-GPIO.cleanup()
-print "Shutdown All relays"
+time.sleep(60)
+
+import workingtest
+
+#GPIO.cleanup()
+#cleanup() not required
