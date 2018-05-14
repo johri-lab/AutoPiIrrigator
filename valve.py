@@ -2,7 +2,6 @@ import RPi.GPIO as GPIO
 import time
 import os
 
-print("HELLO")
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
@@ -19,7 +18,7 @@ GPIO.output(24, GPIO.HIGH)
 
 time.sleep(60)
 
-import workingtest
+import Auto
 
 #GPIO.cleanup()
 #cleanup() not required
