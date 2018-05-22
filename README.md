@@ -15,6 +15,6 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 ## 1
 ![dsc_0860-01](https://user-images.githubusercontent.com/30645315/40273453-f871b63e-5bdd-11e8-9544-1280e2eeab32.jpg)
 ## 2
-![dsc_0861-01-01](https://user-images.githubusercontent.com/30645315/40273593-6ef1b636-5be0-11e8-83ef-9777cc9b835b.jpg)
+![autopi irrigator](https://user-images.githubusercontent.com/30645315/40365091-784cf426-5df1-11e8-8bdb-4dfbe4e746de.jpg)
 ## 3
 ![rsz_lrm_export_20180520_043411-01](https://user-images.githubusercontent.com/30645315/40276018-ff11e006-5c1c-11e8-8e53-13fcca28217e.jpg)
