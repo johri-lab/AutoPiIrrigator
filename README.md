@@ -45,3 +45,10 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 [(Back to top)](#list-of-contents)
 
 ![autopi irrigator app](https://user-images.githubusercontent.com/30645315/40365526-5df590d2-5df2-11e8-8108-ad9e853ffbc5.jpg)
+
+
+## License
+---
+[(Back to top)](#list-of-contents)
+
+The code in this project is licensed under the MIT license 2018 - Shikhar Johri.
