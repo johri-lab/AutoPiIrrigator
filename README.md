@@ -2,14 +2,18 @@
 
 Plant Watering System to provide an ease of automatic irrigation control at agricultural lands ( in farm lands ,etc. ) or even at your own home ( in gardens , seed plots ,etc. )
 
+Webpage : https://johri002.github.io/AutoPiIrrigator/
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 ---
 ### List of contents
-
 + [Components](#components)
 + [Complete System](#complete-system)
 + [Hardware](#hardware)
 + [Android application](#android-application)
 + [License](#license)
++ [Get in touch](#get-in-touch)
 
 ---
 ## Components
@@ -52,9 +56,20 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 
 ![autopi irrigator app](https://user-images.githubusercontent.com/30645315/40365526-5df590d2-5df2-11e8-8108-ad9e853ffbc5.jpg)
 
+
 ---
 ## License
 
 [(Back to top)](#list-of-contents)
 
 The code in this project is licensed under the MIT license 2018 - Shikhar Johri.
+
+
+---
+## Get in touch
+[(Back to top)](#list-of-contents)
+
+[<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://www.linkedin.com/in/shikhar-johri/)
+[<img src="https://image.flaticon.com/icons/svg/185/185981.svg" width="35" padding="10">](https://www.facebook.com/shikhar.johri.3)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="35" padding="10">](https://github.com/johri002)
+
