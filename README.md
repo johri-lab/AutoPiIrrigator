@@ -1,7 +1,8 @@
 # AutoPiIrrigator
----
+
 Plant Watering System to provide an ease of automatic irrigation control at agricultural lands ( in farm lands ,etc. ) or even at your own home ( in gardens , seed plots ,etc. )
 
+---
 ### List of contents
 
 + [Components](#components)
@@ -10,8 +11,9 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 + [Android application](#android-application)
 + [License](#license)
 
-## Components
 ---
+## Components
+
 [(Back to top)](#list-of-contents)
 
 + [Raspberry Pi 3](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiTyLin6pbbAhXMFI8KHerTCEYYABAPGgJzYg&agsac=wuCfm7ifInM&ohost=www.google.com&cid=CAESEeD2EOIBqHYXYDBUH_WFtwv_&sig=AOD64_2btC6uBMUde_WY3Wb1Z_Hbqxy-_Q&ctype=5&q=&ved=0ahUKEwjt3a-n6pbbAhUIQY8KHcknCvYQwg8IHg&adurl=)
@@ -23,14 +25,17 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 + [DS18B20 temperature probe](https://www.electronicscomp.com/ds18b20-water-proof-temperature-sensor-probe-india?gclid=Cj0KCQjw3InYBRCLARIsAG6bfMTIJxHtMEBOeQR9jGIffRCOpo6sMtHehJxdNTTMK3tU5U_NGKjRywAaAhE1EALw_wcB)
 + [BMP280 - Digital barometric pressure altitude temperature sensor](https://probots.co.in/index.php?main_page=product_info&products_id=907&gclid=Cj0KCQjw3InYBRCLARIsAG6bfMQP7FU8jvWg1Zmo7tswZK-GWZwj0EPBFwrzwEQCTJcfdxJUO-l8GXQaAs7kEALw_wcB&zenid=muocpk3q5dc59umlifn0hkjn07)
 
-## Complete System
 ---
+## Complete System
+
 [(Back to top)](#list-of-contents)
 
 ![autoirrigator](https://user-images.githubusercontent.com/30645315/49015816-37efd900-f1aa-11e8-8f28-5b735e0921fd.jpg)
 
-## Hardware
+
 ---
+## Hardware
+
 [(Back to top)](#list-of-contents)
 
 ### 1
@@ -39,16 +44,17 @@ Plant Watering System to provide an ease of automatic irrigation control at agri
 ### 2
 ![autopi irrigator](https://user-images.githubusercontent.com/30645315/40365091-784cf426-5df1-11e8-8bdb-4dfbe4e746de.jpg)
 
+---
 
 ## Android application
----
+
 [(Back to top)](#list-of-contents)
 
 ![autopi irrigator app](https://user-images.githubusercontent.com/30645315/40365526-5df590d2-5df2-11e8-8108-ad9e853ffbc5.jpg)
 
-
-## License
 ---
+## License
+
 [(Back to top)](#list-of-contents)
 
 The code in this project is licensed under the MIT license 2018 - Shikhar Johri.
