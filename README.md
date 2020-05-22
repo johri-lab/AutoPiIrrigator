@@ -2,6 +2,9 @@
 
 Plant Watering System to provide an ease of automatic irrigation control at agricultural lands ( in farm lands ,etc. ) or even at your own home ( in gardens , seed plots ,etc. )
 
+The system is designed to sense soil moisture, amount of light falling on the plants and water flow rate. When the moisture content in the soil is too low, the system will give command to start a pump and water the soil. The flow meter monitor the water consumption.
+Judiciously uses water while maintaining a green garden.
+
 Webpage : https://johri002.github.io/AutoPiIrrigator/
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
